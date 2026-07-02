@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
- 
-<plugins>
+ <plugins>
     <plugin
             id="uk.co.ageas.demo"
-            url="demo-1.0-SNAPSHOT.zip"
+            url="https://steve-joyner-sqc.github.io/FlowEngine-IntellijPlugin/demo-1.0-SNAPSHOT.zip"
             version="1.0">
  
         <name>Demo Plugin</name>
@@ -14,9 +13,10 @@
                 since-build="241"
                 until-build="241.*"/>
  
-        <description>
+        <description><![CDATA[
             Demo plugin
-        </description>
+        ]]></description>
  
     </plugin>
 </plugins>
+ 
