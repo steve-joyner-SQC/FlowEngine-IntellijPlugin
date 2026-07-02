@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<plugins>
+    <plugin
+            id="uk.co.ageas.demo"
+            url="DemoPlugin-1.0.zip"
+            version="1.0">
+ 
+        <name>Demo Plugin</name>
+ 
+        <vendor>Steve Joyner</vendor>
+ 
+        <idea-version
+                since-build="241"
+                until-build="241.*"/>
+ 
+        <description>
+            Demo plugin
+        </description>
+ 
+    </plugin>
+</plugins>
